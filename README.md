@@ -20,4 +20,4 @@ Installation:
 - bower install
 - grunt svg_min
 - grunt
---------------------------------------------------------		
+	
