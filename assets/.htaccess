@@ -1,0 +1,9 @@
+# BEGIN Send IE related content
+AddType text/x-component .htc
+AddType image/svg+xml .svg
+
+ 
+
+<IfModule mod_headers.c>
+  Header add X-UA-Compatible "IE=Edge,chrome=1"
+</IfModule>

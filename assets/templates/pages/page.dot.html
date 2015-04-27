@@ -1,0 +1,26 @@
+{
+  "template": "main",
+  "class": "test-class"
+}
+
+<!-- content -->
+<div class="wrapper">
+	<p class="paragraph">Hello universe! I'm a paragraph</p>
+
+	<p class="paragraph-small">And, I'm a small paragraph with an svg icon below me...</p>
+	<i class="icon-up icon icon-72"></i>
+
+	{{= it.include("../components/list", 
+		{
+			"items" : [
+				"Lorem",
+				"Item",
+				"Ipsum",
+				"List",
+				"Dollor",
+				"Yayyyyy"
+			]
+		}
+	)}}
+</div>
+
