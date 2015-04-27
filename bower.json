@@ -1,11 +1,11 @@
 {
-  "name": "JMS Frontend Boilerplate",
+  "name": "Frontend Boilerplate",
   "version": "0.0.1",
   "authors": [
-    "developers@johnmcneilstudio.com"
+    "vanss472@gmail.com"
   ],
   "main": "README.md",
-  "license": "Copyright 2014",
+  "license": "Copyright 2015",
   "private": true,
   "ignore": [
     "**/.*",

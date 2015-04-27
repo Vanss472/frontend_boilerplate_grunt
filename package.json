@@ -1,9 +1,9 @@
 {
-  "name": "juniper_responsive_framework",
-  "description": "Juniper.net's responsive redesign",
+  "name": "vanss_responsive_framework",
+  "description": "Responsive Framework",
   "repository": {
     "type": "git",
-    "url": "ssh://git@bitbucket.org/johnmcneilstudio/jms-frontend-boilerplate.git"
+    "url": "ssh://git@github.com:Vanss472/frontend_boilerplate_grunt.git"
   },
   "author": "John McNeil Studio",
   "license": "BSD",

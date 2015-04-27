@@ -1,4 +1,4 @@
-JMS' Frontend boilerplate
+Frontend boilerplate
 ================================
 
 Requirements:
